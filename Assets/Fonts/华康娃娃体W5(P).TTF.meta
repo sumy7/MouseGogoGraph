@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 12754f8ef02d3de4eadcb2db29012690
+timeCreated: 1490429279
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFPWaWaW5-GB
+  fontNames:
+  - DFPWaWaW5-GB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
